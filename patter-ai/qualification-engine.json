@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "9719cb71-b380-4db1-b83b-aededbea057c",
-		"name": "qualification-engine-server",
+		"name": "qualification-server",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
