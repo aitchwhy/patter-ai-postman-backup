@@ -105,6 +105,11 @@
 						{
 							"key": "id",
 							"value": "006E200000DqAK0IAN"
+						},
+						{
+							"key": "chase-requested-sales-oppo-id",
+							"value": "006E200000DqAK0IAN",
+							"disabled": true
 						}
 					]
 				}
