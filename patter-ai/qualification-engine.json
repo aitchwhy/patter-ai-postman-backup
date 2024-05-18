@@ -92,7 +92,7 @@
 					}
 				},
 				"url": {
-					"raw": "{{host}}/salesOpportunityContacts?salesOppoId=006E200000DqAK0IAN",
+					"raw": "{{host}}/salesOpportunityContacts?salesOppoId=SO-0102",
 					"host": [
 						"{{host}}"
 					],
@@ -107,7 +107,7 @@
 						},
 						{
 							"key": "salesOppoId",
-							"value": "006E200000DqAK0IAN"
+							"value": "SO-0102"
 						}
 					]
 				}
