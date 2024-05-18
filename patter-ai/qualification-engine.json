@@ -92,24 +92,22 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:4000/salesOpportunityContacts?id=006E200000DqAK0IAN",
-					"protocol": "http",
+					"raw": "{{host}}/salesOpportunityContacts?salesOppoId=006E200000DqAK0IAN",
 					"host": [
-						"localhost"
+						"{{host}}"
 					],
-					"port": "4000",
 					"path": [
 						"salesOpportunityContacts"
 					],
 					"query": [
 						{
-							"key": "id",
-							"value": "006E200000DqAK0IAN"
-						},
-						{
 							"key": "chase-requested-sales-oppo-id",
 							"value": "006E200000DqAK0IAN",
 							"disabled": true
+						},
+						{
+							"key": "salesOppoId",
+							"value": "006E200000DqAK0IAN"
 						}
 					]
 				}
