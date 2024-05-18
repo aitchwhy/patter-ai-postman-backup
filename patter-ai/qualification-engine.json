@@ -92,9 +92,9 @@
 					}
 				},
 				"url": {
-					"raw": "{{host}}/salesOpportunityContacts?salesOppoId=SO-0107",
+					"raw": "{{vercelPreviewHost}}/salesOpportunityContacts?salesOppoId=SO-0106",
 					"host": [
-						"{{host}}"
+						"{{vercelPreviewHost}}"
 					],
 					"path": [
 						"salesOpportunityContacts"
@@ -107,7 +107,7 @@
 						},
 						{
 							"key": "salesOppoId",
-							"value": "SO-0107"
+							"value": "SO-0106"
 						}
 					]
 				}
